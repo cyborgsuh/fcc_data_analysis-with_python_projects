@@ -54,7 +54,3 @@ def calculate(list_of_numbers):
             'max':max,
             'min':min,
             'sum':sum}
-
-
-    
-
